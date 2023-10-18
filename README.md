@@ -32,8 +32,20 @@ Los tres acentos abiertos lo que nos hace, que la estructura que pongamos no se 
     </body>
 <html>
 ```
+Para poner un enlace en nuestra pagina web ponemos las siguientes instrucciones
+Ponemos los dos corchetes para poner en medio un texto informativo del enlace despues cerramos los corchetes, despues abrimos parentesis y ponemos una URL cualquiera despues ponemos entre comillas de que setrata esa URL que hemos insertado
+```
+[Esto es un enlace](https://joan23.fje.edu "Enlace a la web del cole")
+```
+Para crear una tabla ponemos | esta raya y dentro lo que queramos poner dentro de nuestra tabla despues podemos poner |centrada| ara que se centre el texto que esta dentro de la tabla
 
 
+|Primera Col.|Segunda Col.|3 Col|
+|---------------|:------------:|---------:|
+|Col 2 es|Centrada|35€|
+|Col 3 es|Derecha|134€|
+|Estilo Cebra|Gris|Blanco|
+|Clase|ASIX1|M4|
 
 
 
