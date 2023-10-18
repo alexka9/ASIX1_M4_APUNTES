@@ -17,7 +17,7 @@ O de esta manera tambien se puede hacer:
    2. Segundo submenu
 - Cuarta opcion de lista desordenada
    * Tercer submenu
-   *Cuarto submenu
+   * Cuarto submenu
 + Quinta opcion de lista desordenada
 + Sexta opcion de lista desordenada
 
