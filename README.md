@@ -22,6 +22,7 @@ O de esta manera tambien se puede hacer:
 + Sexta opcion de lista desordenada
 
 La estructura del html que nos vamos a encontrar en nuestra aplicacion que en este caso es la del Visual Studio Code.
+Los tres acentos abiertos lo que nos hace, que la estructura que pongamos no se ejecute hace que solo salga por pantalla como si fuera un comentario
 ```
 <html>
    <head>
