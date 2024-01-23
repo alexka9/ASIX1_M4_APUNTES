@@ -115,7 +115,69 @@ Podemos hacer que nos haga una pequeña estructura para html si ponemos html:5, 
 <br>
 Vemos que en la estructura hay el tipo de lenguaje, luego el idioma en el que esta puesta la pagina que en este caso es HTML en la tercera linea tendremos el comando head con su contenido dentro y luego se cierra en la septima linea, depues en la octava linea tenermos el comando body que es donde podremos todo el contenido para crear nuestra pagina web.
 
+<h1>CSS</h1>
 
+Para poner un estilo a una tabla tendremos que crear un archivo.css la creacion es igual para cuando creamos la pagina html ponemos new text file y luego el formato que seria css o tambien podemos poner en la etiqueta del body arriba de nuestra estrcutura una etiqueta de style que dentro de esa estructura es donde pondremos los estilos de la tabla
+Ejemplo:
+```
+<body>
+   <style>
+      table{
+         color: red;
+         text-align: center;
+         background-color: grey;
+      }
+   </style>
+</body>
+```
+Lo que puesto es que a la tabla le asigne unos estilos la etiqueta color es que cambiar el color del texto que este dentro de la tabla.
+El text-align lo que hace es alinear el texto al centro.
+El background-color es que añade un color de fondo a nuestra tabla
 
+Si queremos que por ejemplo hacemos dos tablas y queremos que cada elemento de la tabla tengo un estilo diferente con los atributos de class y id podemos asignarle a cada tabla un unico estilo con esos atributos
 
+Que se usan dentro de las etiquetas como por ejemplo en la etiqueta de table dentro de la etiqueta ponemos el atributo class:
+```
+<table class="estilo_tabla1">
+´´´
+Y con el id lo mismo:
 
+´´´
+<table id="estilo_tabla2">
+```
+Entoces en el style y en archivo externo de CSS tendremos que poner un . delante del nombre que le hemos asignado con el atributo class es decir asi:
+
+```
+.estilo_tabla1{
+   padding: 5%;
+   text-align: right;
+   color: white
+}
+```
+
+Y con el id se pone un # delante del nombre que le hemos puesto al id es decir asi:
+```
+#estilo_tabla2{
+   background-color: blue;
+   color: pink;
+}
+```
+Cuando queremos poner por ejemplo que el formato del tipo de letra, color de fondo... afecte a toda la pagina del html ponemos un * y despues los corchetes Ejemplo:
+```
+*{
+   background-color: grey;
+}
+
+Si queremos que la pagina tenga responsive, es que cuando tu pagina web se ponga en un dispositivo cualquiere se adapte al tamaño de pantalla de ese dispositivo Ejemplo:
+```
+@media only screen and (max-width: 700px){
+    .column-3{
+        width: 100%;
+    }
+
+    .column-4{
+        width: 50%;
+    }
+}
+```
+Lo que significa es que cuando la pantalla supere los 700px se aplicaran los cambios que pongamos abajo para que se vea adaptable a la dimension de nuestra pagina web cuando lo veamos en un dispositivo mobil, ordenador o tablet.
