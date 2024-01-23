@@ -1,4 +1,23 @@
 # ASIX1_M4_APUNTES
+<h1>Git Hub</h1>
+Para crear un repositorio en Git hub es registrarte para poder crearlo una vez te registras en el inicio veras un boton verde que pone new
+<img src="Githun_boton_new.png">
+Se te dirija a una pestaña para ponerle el nombre y si quieres que tu pagina web sea publica o privada, añadir el archivo de lectura para que se pueda ver tu pagina
+<img src="Creacion.png">
+
+Para publicar tu pagina web tienes que hacer lo siguiente cuando estes en la pagina de incio de tu pagina web es decir seleccionado la pagina que quieres publicar arriba en la barra de tareas veras a opcion de settings
+<img src="paso1_settings.png">
+
+Cuando ya lo has seleccionado en la barra lateral veras una opcion que pone pages
+<img src="paso2_tevasapages.png">
+
+Lo siguiente en la parte de brunch tienes que poner el boton none y luego save
+<img src="paso3_raiznonesave.png">
+
+Despues poner que el none a la raiz poner main y save, porque al darle la boton none te sale un desplegable donde para ponerle main
+<img src="paso4_mainsave.png">
+Entonces nos saldra un mensaje arriba que se esta subiendo la pagina web y dde golpe nos aparecera en la misma pagina arriba en una seccion el link de la pagina web
+<img src="paso5_paginaweb_subida.png">
 
 <h1>MARKDOWN</h1>
 Para poner una palabra en una topologia de cursiva se pone con dos asteriscos dentro de la palabra *ejemplo* o tambien _ejemplo_ poniendo las dos rayas hacia abajo tambien funciona.
@@ -61,6 +80,7 @@ Y el hr nos hace un intro en el que nos inserta una linea de punta a punta de la
 
 En el html podemos hacer una lista de elementos que es un conjunto de elementos en los que se puede agrupar las etiquitas: 
 Se puede hacer con la etiqueta ol que es la para listas ordenadas como en este ejemplo de una lista de videojuegos ordenada con la etiqueta ol y cada elemento dentro tiene la etiqueta de li:
+```
 <ol>
    <li>The Legend of Zelda: Breath of the Wild</li>
    <li>Super Mario Odyssey</li>
@@ -73,7 +93,9 @@ Se puede hacer con la etiqueta ol que es la para listas ordenadas como en este e
    <li>Fire Emblem: Three Houses</li>
    <li>Super Mario Maker 2</li>
 </ol>
+```
 Y con la etiqueta ul hacemos una lista desordenada utilizaremos el mismo ejemplo de los videjuegos:
+```
 <ul>
   <li>The Legend of Zelda: Breath of the Wild</li>
   <li>Super Mario Odyssey</li>
@@ -86,7 +108,7 @@ Y con la etiqueta ul hacemos una lista desordenada utilizaremos el mismo ejemplo
   <li>Fire Emblem: Three Houses</li>
   <li>Super Mario Maker 2</li>
 </ul>
-
+```
 Para poner links o URL que nos direccionen a otras paginas ponemos la etiqueta a que la estructura de la etiqueta es la siguente:
 
 ```<a heref="direccion de URL" alt="para poner un texto alternativo en la url">
