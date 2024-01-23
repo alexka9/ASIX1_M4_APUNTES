@@ -1,24 +1,26 @@
 # ASIX1_M4_APUNTES
 <h1>Git Hub</h1>
 Para crear un repositorio en Git hub es registrarte para poder crearlo una vez te registras en el inicio veras un boton verde que pone new
-<img src="Githun_boton_new.png">
+<img src="./IMG/Github_boton_new.png">
+<br>
 Se te dirija a una pestaña para ponerle el nombre y si quieres que tu pagina web sea publica o privada, añadir el archivo de lectura para que se pueda ver tu pagina
-<img src="Creacion.png">
-
+<img src="./IMG/Creacion.png">
+<br>
 Para publicar tu pagina web tienes que hacer lo siguiente cuando estes en la pagina de incio de tu pagina web es decir seleccionado la pagina que quieres publicar arriba en la barra de tareas veras a opcion de settings
-<img src="paso1_settings.png">
-
+<img src="./IMG/paso1_settings.png">
+<br>
 Cuando ya lo has seleccionado en la barra lateral veras una opcion que pone pages
-<img src="paso2_tevasapages.png">
-
+<img src="./IMG/paso2_tevasapages.png">
+<br>
 Lo siguiente en la parte de brunch tienes que poner el boton none y luego save
-<img src="paso3_raiznonesave.png">
-
+<img src="./IMG/paso3_raiznonesave.png">
+<br>
 Despues poner que el none a la raiz poner main y save, porque al darle la boton none te sale un desplegable donde para ponerle main
-<img src="paso4_mainsave.png">
+<img src="./IMG/paso4_mainsave.png">
+<br>
 Entonces nos saldra un mensaje arriba que se esta subiendo la pagina web y dde golpe nos aparecera en la misma pagina arriba en una seccion el link de la pagina web
-<img src="paso5_paginaweb_subida.png">
-
+<img src="./IMG/paso5_paginaweb_subida.png">
+<br>
 <h1>MARKDOWN</h1>
 Para poner una palabra en una topologia de cursiva se pone con dos asteriscos dentro de la palabra *ejemplo* o tambien _ejemplo_ poniendo las dos rayas hacia abajo tambien funciona.
 Para poner la palabra en negrita son la mimsmas opciones que en la de cursiva pero en este caso cambia poniendo dos asteriscos acada lado **ejemplo** __ejemplo__ y estaran las dos palabras en negrita.
@@ -71,7 +73,7 @@ Para crear una tabla ponemos | esta raya y dentro lo que queramos poner dentro d
 |Clase|ASIX1|M4|
 
 Para poner una imagen en nuestra pagina de html tendremos que utilizar el siguiente atributo de img
-<img src="darth1.jpg">
+<img src="./IMG/darth1.jpg">
 
 Lo el br que hace es que termite crear un salto de linea, es un elemento vacio que no tiene nada dentro.
 <br>
@@ -130,10 +132,10 @@ Para cambiar la tipografia de nuestra pagina web tendremos que poner un link en 
 Cuando abrimos el visual studio code veremos una pagina completamiente en blanco y tendremos que ir a la barra de tareas de arriba del visual poner new text file y seleccionamos el tipo de formato que vamos a  utilizar.
 En la primera linea nos salra para poner el tipo de lenguaje que tendra nuestra pagina.
 Si elegimos html abajo a la derecha nos saldra el formato del lenguaje de la pagina.
-<img src="VisualStudio_formato.png">
+<img src="./IMG/VisualStudio_formato.png">
 Podemos hacer que nos haga una pequeña estructura para html si ponemos html:5, le damos a intro y nos saldra una pequeña estructura.
-<img src="Estructura_de_html.png">
-<img src="Estructura.png">
+<img src="./IMG/Estructura_de_html.png">
+<img src="./IMG/Estructura.png">
 <br>
 Vemos que en la estructura hay el tipo de lenguaje, luego el idioma en el que esta puesta la pagina que en este caso es HTML en la tercera linea tendremos el comando head con su contenido dentro y luego se cierra en la septima linea, depues en la octava linea tenermos el comando body que es donde podremos todo el contenido para crear nuestra pagina web.
 
