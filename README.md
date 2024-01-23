@@ -21,6 +21,8 @@ O de esta manera tambien se puede hacer:
 + Quinta opcion de lista desordenada
 + Sexta opcion de lista desordenada
 
+<h1>HTML</h1>
+
 La estructura del html que nos vamos a encontrar en nuestra aplicacion que en este caso es la del Visual Studio Code.
 Los tres acentos abiertos lo que nos hace, que la estructura que pongamos no se ejecute hace que solo salga por pantalla como si fuera un comentario
 ```
@@ -46,6 +48,15 @@ Para crear una tabla ponemos | esta raya y dentro lo que queramos poner dentro d
 |Col 3 es|Derecha|134€|
 |Estilo Cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+Para poner una imagen en nuestra pagina de html tendremos que utilizar el siguiente atributo de img
+<img src="darth1.jpg">
+
+Lo el br que hace es que termite crear un salto de linea, es un elemento vacio que no tiene nada dentro.
+<br>
+
+
+
 
 
 
