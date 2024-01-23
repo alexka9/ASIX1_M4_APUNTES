@@ -121,6 +121,7 @@ Para poner comentario en nuestro codigo es poniendo esto:
 <!-- Esto es un comentario>
 ```
 
+<br>
 Para cambiar la tipografia de nuestra pagina web tendremos que poner un link en el head de nuestro archivo.html que es poner este link en el head:
 ```
 <script src="https://kit.fontawesome.com/e406714e56.js" crossorigin="anonymous"></script>
