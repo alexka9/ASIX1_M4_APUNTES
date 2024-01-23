@@ -190,13 +190,17 @@ Y con el id se pone un # delante del nombre que le hemos puesto al id es decir a
 ```
 <br>
 Cuando queremos poner por ejemplo que el formato del tipo de letra, color de fondo... afecte a toda la pagina del html ponemos un * y despues los corchetes Ejemplo:
+<br>
+
 ```
 *{
    background-color: grey;
 }
 ```
+
 <br>
 Si queremos que la pagina tenga responsive, es que cuando tu pagina web se ponga en un dispositivo cualquiere se adapte al tamaño de pantalla de ese dispositivo Ejemplo:
+
 ```
 @media only screen and (max-width: 700px){
     .column-3{
@@ -208,4 +212,6 @@ Si queremos que la pagina tenga responsive, es que cuando tu pagina web se ponga
     }
 }
 ```
+
+<br>
 Lo que significa es que cuando la pantalla supere los 700px se aplicaran los cambios que pongamos abajo para que se vea adaptable a la dimension de nuestra pagina web cuando lo veamos en un dispositivo mobil, ordenador o tablet.
