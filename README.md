@@ -117,7 +117,7 @@ Para poner links o URL que nos direccionen a otras paginas ponemos la etiqueta a
 
 Para poner comentario en nuestro codigo es poniendo esto:
 ```<!--Para comentar nuestro codigo para enterder lo ->
-```
+
 
 Para cambiar la tipografia de nuestra pagina web tendremos que poner un link en el head de nuestro archivo.html que es poner este link en el head:
 ```
