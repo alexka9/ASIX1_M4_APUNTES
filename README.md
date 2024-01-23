@@ -163,8 +163,8 @@ El background-color es que añade un color de fondo a nuestra tabla
 Si queremos que por ejemplo hacemos dos tablas y queremos que cada elemento de la tabla tengo un estilo diferente con los atributos de class y id podemos asignarle a cada tabla un unico estilo con esos atributos
 
 Que se usan dentro de las etiquetas como por ejemplo en la etiqueta de table dentro de la etiqueta ponemos el atributo class:
-
-```<table class="estilo_tabla1">
+```
+<table class="estilo_tabla1">
 ```
 
 Y con el atributo de id lo mismo:
