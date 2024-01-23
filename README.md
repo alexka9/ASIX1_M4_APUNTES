@@ -116,6 +116,7 @@ Para poner links o URL que nos direccionen a otras paginas ponemos la etiqueta a
 <a heref="direccion de URL" alt="para poner un texto alternativo en la url">
 
 Para poner comentario en nuestro codigo es poniendo esto: 
+
 ```
 <!-- Esto es un comentario>
 ```
