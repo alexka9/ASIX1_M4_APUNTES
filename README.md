@@ -113,8 +113,7 @@ Y con la etiqueta ul hacemos una lista desordenada utilizaremos el mismo ejemplo
 ```
 Para poner links o URL que nos direccionen a otras paginas ponemos la etiqueta a que la estructura de la etiqueta es la siguente:
 
-```<a heref="direccion de URL" alt="para poner un texto alternativo en la url">
-```
+<a heref="direccion de URL" alt="para poner un texto alternativo en la url">
 
 Para poner comentario en nuestro codigo es poniendo esto:
 ```<!--Para comentar nuestro codigo para enterder lo ->
